@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" baseProfile="full" version="1.1">
+<circle fill="blue" stroke = "blue" stroke-width = "25" transform="translate(100 50)" cx="150" cy="200" r="200" />
+<ellipse fill="white" stroke="black" stroke-width="5" cx="250" cy="270" rx="190" ry="190"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="200" cy="110" rx="40" ry="50"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="290" cy="110" rx="40" ry="50"/>
+<path d="M245 200 V380" stroke="black" stroke-width="3"/>
+<circle fill="red" stroke = "red" stroke-width = "25" transform="translate(100 50)" cx="145" cy="150" r="30" />
+<circle cx="220" cy="110" r="15" />
+<circle cx="270" cy="110" r="15" />
+<path d="M400 350 C400 400,400 400,100,350" stroke-width="14" stroke="pink" fill="none"/>
+
+ </svg>
