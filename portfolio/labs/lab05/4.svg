@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" baseProfile="full" version="1.1">
+<rect x="150" y="100" rx="100" ry="70" width="250" height="300" stroke="black" stroke-width="8" fill="white"/>
+<ellipse fill="white"  stroke = "black" stroke-width="4" cx="350" cy="220" rx="20" ry="12"/>
+<ellipse fill="white"  stroke = "black" stroke-width="4" cx="250" cy="220" rx="20" ry="12"/>
+<ellipse fill="black"  cx="355" cy="220" rx="5" ry="5"/>
+<ellipse fill="black"  cx="255" cy="220" rx="5" ry="5"/>
+<path d="M230 200 H280" stroke="black" stroke-width="3"/>
+<path d="M320 200 H370" stroke="black" stroke-width="3"/>
+<path d="M140 110 H240" stroke="black" stroke-width="3"/>
+<path d="M120 130 H220" stroke="black" stroke-width="3"/>
+<path d="M100 150 H200" stroke="black" stroke-width="3"/>
+<path d="M100 170 H200" stroke="black" stroke-width="3"/>
+<path d="M100 190 H200" stroke="black" stroke-width="3"/>
+<path d="M100 210 H200" stroke="black" stroke-width="3"/>
+<path d="M100 230 H200" stroke="black" stroke-width="3"/>
+<path d="M100 250 H200" stroke="black" stroke-width="3"/>
+<path d="M100 270 H200" stroke="black" stroke-width="3"/>
+<path d="M100 290 H200" stroke="black" stroke-width="3"/>
+<path d="M100 310 H200" stroke="black" stroke-width="3"/>
+<path d="M100 330 H200" stroke="black" stroke-width="3"/>
+<path d="M100 350 H200" stroke="black" stroke-width="3"/>
+<path d="M100 370 H200" stroke="black" stroke-width="3"/>
+<path d="M280 340 H330" stroke="black" stroke-width="3"/>
+<path d="M320 280 V290" stroke="black" stroke-width="3"/>
+ </svg>

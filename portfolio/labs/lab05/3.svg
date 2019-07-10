@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" baseProfile="full" version="1.1">
+<circle fill="blue" stroke = "blue" stroke-width = "25" transform="translate(100 50)" cx="150" cy="200" r="200" />
+<ellipse fill="white" stroke="black" stroke-width="5" cx="250" cy="300" rx="180" ry="170"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="210" cy="170" rx="40" ry="60"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="300" cy="170" rx="40" ry="60"/>
+<circle fill="red" stroke = "red" stroke-width = "25" transform="translate(100 50)" cx="150" cy="200" r="40" />
+<path d="M400 350 C400 400,400 400,100,350" stroke-width="14" stroke="pink" fill="none"/>
+ </svg>
