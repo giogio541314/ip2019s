@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512">
+
+  <rect width="512" height="512" stroke="red" fill="white"/>
+
+  <path d="
+    M206 114
+    C
+    237 53 417 500 410 99 
+    402 212 35 236 482 221 
+    202 209 186 151 206 114z" fill="none" stroke="#000" stroke-width="1px"/>
+
+<circle fill="Lavender" stroke="#f0f" cx="206" cy="114" r="21" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="orange" stroke="#f0f" cx="237" cy="53" r="12" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="2s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="red" stroke="#f0f" cx="417" cy="500" r="14" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="4s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="blue" stroke="#f0f" cx="410" cy="99" r="16" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="6s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="green" stroke="#f0f" cx="402" cy="212" r="18" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="8s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="yellow" stroke="#f0f" cx="35" cy="236" r="9" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="10s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="gray" stroke="#f0f" cx="482" cy="221" r="11" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="12s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="purple" stroke="#f0f" cx="202" cy="209" r="15" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="14s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="blue" stroke="#f0f" cx="186" cy="151" r="19" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="16s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="black" stroke="#f0f" cx="206" cy="114" r="25" opacity="0.0">
+    <animate attributeName="opacity" to="1" begin="18s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+</svg>
